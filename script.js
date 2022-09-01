@@ -9,7 +9,7 @@ function stars(){
         let duration = Math.random() * 10;
         let size = Math.random() * 2;
 
-        star.style.left = x='px';
+        star.style.left = x+'px';
         star.style.top = y+'px';
         star.style.width = 1+size+'px';
         star.style.height = 1+size+'px';
