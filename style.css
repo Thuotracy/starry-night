@@ -125,3 +125,13 @@
     animation: animateCloud 30s linear infinite;
     animation-delay: -10s;
 }
+
+@keyframes animateCloud{
+    0%{
+        transform: translateX(-100%); scale:(1);
+    }
+
+    100%{
+        transform: translateX(400%); scale:(1.5);
+    }
+}
