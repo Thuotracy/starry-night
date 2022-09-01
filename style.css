@@ -36,3 +36,12 @@
     background: linear-gradient(#111425,#3751e0);
     background-attachment: fixed;
 }
+
+.forest{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+    transform: scale(1.2);
+}
