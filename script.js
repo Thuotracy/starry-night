@@ -14,6 +14,10 @@ function stars(){
         star.style.width = 1+size+'px';
         star.style.height = 1+size+'px';
 
+        star.style.animationDuration = 5+duration+'s';
+        star.style.animationDelay = duration+'s';
+
+
         scene.appendChild(star);
         i++
     }
