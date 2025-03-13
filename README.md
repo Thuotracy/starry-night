@@ -6,6 +6,7 @@ A mesmerizing starry night background featuring a deep, dark sky illuminated by 
 ## Technologies Used
 * HTML
 * CSS
+* JavaScript
 
 ## Live link
 https://thuotracy.github.io/starry-night/
