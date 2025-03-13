@@ -1,7 +1,7 @@
-## STARY NIGHT BACKGROUND
+## STARRY NIGHT BACKGROUND
 
 ## Description
-This is an abstract background design.
+A mesmerizing starry night background featuring a deep, dark sky illuminated by countless twinkling stars.
 
 ## Technologies Used
 * HTML
