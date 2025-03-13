@@ -8,7 +8,7 @@ A mesmerizing starry night background featuring a deep, dark sky illuminated by 
 * CSS
 
 ## Live link
-https://thuotracy.github.io/abstract-background
+https://thuotracy.github.io/starry-night/
 
 ## Support and contact details
 Incase you run into any issues kindly contact me on this Email tracyjacobs775@gmail.com
