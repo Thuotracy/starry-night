@@ -1,4 +1,4 @@
-## ABSTARCT BACKGROUND
+## STARY NIGHT BACKGROUND
 
 ## Description
 This is an abstract background design.
